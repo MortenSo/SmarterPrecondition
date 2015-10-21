@@ -18,6 +18,7 @@ This was just a couple of nights of coding, to get a proof of concept up and run
   * Follow instructions to connect to calendar and car
 
 ### Run application
+The node executable can be named differently on different systems. Common are `node`, `nodejs` and `node.exe`.
 
     node SmarterPrecondition.js
 
